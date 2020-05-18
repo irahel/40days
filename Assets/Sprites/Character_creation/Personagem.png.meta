@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 9a3e06841d8d0b24a9ca00910b65cb2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7501778473976659587
+    second: Personagem_0
+  - first:
+      213: -5474501469788244867
+    second: Personagem_1
+  - first:
+      213: 5985324816913153986
+    second: Personagem_2
+  - first:
+      213: -4103437087479778593
+    second: Personagem_3
+  - first:
+      213: 7700747892506411726
+    second: Personagem_4
+  - first:
+      213: -5074991419491846861
+    second: Personagem_5
+  - first:
+      213: 119723862632371287
+    second: Personagem_6
+  - first:
+      213: 3069208646073774518
+    second: Personagem_7
+  - first:
+      213: -853299449586930918
+    second: Personagem_8
+  - first:
+      213: 3920698653494930242
+    second: Personagem_9
+  - first:
+      213: -8840467898546309861
+    second: Personagem_10
+  - first:
+      213: -5197617883074779432
+    second: Personagem_11
+  - first:
+      213: 609909039143518307
+    second: Personagem_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personagem_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 335
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -275.5}
+        - {x: 21.5, y: -273.5}
+        - {x: 29.5, y: -278.5}
+        - {x: 45.5, y: -286.5}
+        - {x: 61.5, y: -291.5}
+        - {x: 78.5, y: -294.5}
+        - {x: 88.5, y: -295.5}
+        - {x: 93.5, y: -295.5}
+        - {x: 106.5, y: -293.5}
+        - {x: 115.5, y: -287.5}
+        - {x: 117.5, y: -276.5}
+        - {x: 113.5, y: -269.5}
+        - {x: 100.5, y: -256.5}
+        - {x: 83.5, y: -249.5}
+        - {x: 83.5, y: -246.5}
+        - {x: 96.5, y: -233.5}
+        - {x: 102.5, y: -226.5}
+        - {x: 110.5, y: -210.5}
+        - {x: 113.5, y: -198.5}
+        - {x: 117.5, y: -187.5}
+        - {x: 119.5, y: -173.5}
+        - {x: 133.5, y: -170.5}
+        - {x: 140.5, y: -162.5}
+        - {x: 146.5, y: -154.5}
+        - {x: 153.5, y: -132.5}
+        - {x: 154.5, y: -111.5}
+        - {x: 154.5, y: -103.5}
+        - {x: 152.5, y: -81.5}
+        - {x: 150.5, y: -69.5}
+        - {x: 144.5, y: -47.5}
+        - {x: 133.5, y: -18.5}
+        - {x: 120.5, y: 8.5}
+        - {x: 104.5, y: 35.5}
+        - {x: 89.5, y: 61.5}
+        - {x: 85.5, y: 76.5}
+        - {x: 81.5, y: 84.5}
+        - {x: 72.5, y: 96.5}
+        - {x: 65.5, y: 102.5}
+        - {x: 76.5, y: 107.5}
+        - {x: 93.5, y: 124.5}
+        - {x: 105.5, y: 142.5}
+        - {x: 113.5, y: 162.5}
+        - {x: 116.5, y: 172.5}
+        - {x: 116.5, y: 202.5}
+        - {x: 114.5, y: 218.5}
+        - {x: 105.5, y: 240.5}
+        - {x: 96.5, y: 252.5}
+        - {x: 79.5, y: 269.5}
+        - {x: 69.5, y: 276.5}
+        - {x: 59.5, y: 281.5}
+        - {x: 54.5, y: 283.5}
+        - {x: 47.5, y: 286.5}
+        - {x: 39.5, y: 288.5}
+        - {x: 32.5, y: 290.5}
+        - {x: 1.5, y: 290.5}
+        - {x: -16.5, y: 287.5}
+        - {x: -40.5, y: 274.5}
+        - {x: -52.5, y: 264.5}
+        - {x: -60.5, y: 255.5}
+        - {x: -73.5, y: 237.5}
+        - {x: -81.5, y: 217.5}
+        - {x: -83.5, y: 203.5}
+        - {x: -83.5, y: 170.5}
+        - {x: -81.5, y: 160.5}
+        - {x: -72.5, y: 141.5}
+        - {x: -64.5, y: 129.5}
+        - {x: -54.5, y: 117.5}
+        - {x: -43.5, y: 108.5}
+        - {x: -32.5, y: 101.5}
+        - {x: -40.5, y: 93.5}
+        - {x: -67.5, y: 52.5}
+        - {x: -83.5, y: 24.5}
+        - {x: -100.5, y: -6.5}
+        - {x: -114.5, y: -37.5}
+        - {x: -123.5, y: -72.5}
+        - {x: -124.5, y: -78.5}
+        - {x: -126.5, y: -91.5}
+        - {x: -126.5, y: -117.5}
+        - {x: -124.5, y: -134.5}
+        - {x: -120.5, y: -147.5}
+        - {x: -108.5, y: -175.5}
+        - {x: -109.5, y: -178.5}
+        - {x: -113.5, y: -191.5}
+        - {x: -122.5, y: -194.5}
+        - {x: -126.5, y: -201.5}
+        - {x: -126.5, y: -208.5}
+        - {x: -119.5, y: -220.5}
+        - {x: -110.5, y: -234.5}
+        - {x: -102.5, y: -243.5}
+        - {x: -92.5, y: -247.5}
+        - {x: -83.5, y: -247.5}
+        - {x: -79.5, y: -242.5}
+        - {x: -71.5, y: -229.5}
+        - {x: -63.5, y: -239.5}
+        - {x: -54.5, y: -247.5}
+        - {x: -63.5, y: -251.5}
+        - {x: -81.5, y: -263.5}
+        - {x: -87.5, y: -270.5}
+        - {x: -89.5, y: -283.5}
+        - {x: -81.5, y: -292.5}
+        - {x: -70.5, y: -294.5}
+        - {x: -64.5, y: -295.5}
+        - {x: -55.5, y: -295.5}
+        - {x: -49.5, y: -294.5}
+        - {x: -35.5, y: -292.5}
+        - {x: -11.5, y: -284.5}
+      physicsShape: []
+      tessellationDetail: 0.25
+      bones: []
+      spriteID: 8113068a7d071384084ae7e30034618b
+      internalID: -7501778473976659587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 582
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17003c75ac9f9d4e9c0808ce90ed665
+      internalID: -5474501469788244867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 594
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e7dff27e59d04995e45aa23c3b1ac
+      internalID: 5985324816913153986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 594
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4eb54a7250ddf478094847bd36c9a2
+      internalID: -4103437087479778593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 599
+        width: 149
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d123cbdc1b22640a8844d4b3eecf4e
+      internalID: 7700747892506411726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_5
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 23
+        width: 340
+        height: 421
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43805cea0543d5b4ea7e0e65f1b2ea41
+      internalID: -5074991419491846861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 32
+        width: 202
+        height: 181
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -75.5}
+        - {x: 87, y: -92.5}
+        - {x: 93, y: -95.5}
+        - {x: 95, y: -92.5}
+        - {x: 101, y: -28.5}
+        - {x: 101, y: 31.5}
+        - {x: 95, y: 43.5}
+        - {x: 72, y: 49.5}
+        - {x: 61, y: 77.5}
+        - {x: 50, y: 87.5}
+        - {x: 26, y: 87.5}
+        - {x: 8, y: 78.5}
+        - {x: -25, y: 76.5}
+        - {x: -51, y: 78.5}
+        - {x: -84, y: 52.5}
+        - {x: -97, y: 37.5}
+        - {x: -101, y: 13.5}
+        - {x: -101, y: -93.5}
+        - {x: -99, y: -95.5}
+        - {x: -94, y: -95.5}
+        - {x: -77, y: -53.5}
+        - {x: -53, y: -28.5}
+        - {x: 27, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0.16
+      bones: []
+      spriteID: 8a1193dca3e48694fa2d953cdc357894
+      internalID: 119723862632371287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 188
+        width: 213
+        height: 190
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: -33}
+        - {x: -66.5, y: -17}
+        - {x: -54.5, y: -5}
+        - {x: -31.5, y: 8}
+        - {x: -16.5, y: 12}
+        - {x: 8.5, y: 12}
+        - {x: 25.5, y: 8}
+        - {x: 39.5, y: -1}
+        - {x: 50.5, y: -8}
+        - {x: 72.5, y: -35}
+        - {x: 81.5, y: -56}
+        - {x: 86.5, y: -79}
+        - {x: 89.5, y: -82}
+        - {x: 94.5, y: -80}
+        - {x: 94.5, y: -69}
+        - {x: 93.5, y: -48}
+        - {x: 90.5, y: -20}
+        - {x: 85.5, y: 7}
+        - {x: 80.5, y: 27}
+        - {x: 68.5, y: 40}
+        - {x: 57.5, y: 47}
+        - {x: 39.5, y: 57}
+        - {x: 32.5, y: 65}
+        - {x: 26.5, y: 80}
+        - {x: 22.5, y: 86}
+        - {x: 16.5, y: 84}
+        - {x: 16.5, y: 69}
+        - {x: 17.5, y: 55}
+        - {x: -2.5, y: 70}
+        - {x: -22.5, y: 89}
+        - {x: -27.5, y: 95}
+        - {x: -37.5, y: 95}
+        - {x: -39.5, y: 92}
+        - {x: -37.5, y: 73}
+        - {x: -34.5, y: 64}
+        - {x: -32.5, y: 55}
+        - {x: -51.5, y: 65}
+        - {x: -77.5, y: 87}
+        - {x: -80.5, y: 88}
+        - {x: -85.5, y: 81}
+        - {x: -85.5, y: 76}
+        - {x: -91.5, y: 84}
+        - {x: -93.5, y: 83}
+        - {x: -97.5, y: 78}
+        - {x: -98.5, y: 67}
+        - {x: -101.5, y: 33}
+        - {x: -105.5, y: -7}
+        - {x: -106.5, y: -21}
+        - {x: -106.5, y: -58}
+        - {x: -105.5, y: -65}
+        - {x: -101.5, y: -80}
+        - {x: -99.5, y: -83}
+        - {x: -96.5, y: -86}
+        - {x: -95.5, y: -86}
+        - {x: -92.5, y: -84}
+        - {x: -90.5, y: -72}
+        - {x: -84.5, y: -47}
+      physicsShape: []
+      tessellationDetail: 0.26
+      bones: []
+      spriteID: f864a642d01e62a4f804b474f76fb6d7
+      internalID: 3069208646073774518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 139
+        width: 264
+        height: 249
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: -78.5}
+        - {x: 100, y: -67.5}
+        - {x: 102, y: -59.5}
+        - {x: 104, y: -50.5}
+        - {x: 105, y: -43.5}
+        - {x: 106, y: -32.5}
+        - {x: 106, y: -14.5}
+        - {x: 105, y: -2.5}
+        - {x: 102, y: 14.5}
+        - {x: 100, y: 21.5}
+        - {x: 96, y: 32.5}
+        - {x: 92, y: 41.5}
+        - {x: 84, y: 54.5}
+        - {x: 72, y: 65.5}
+        - {x: 63, y: 70.5}
+        - {x: 57, y: 72.5}
+        - {x: 39, y: 90.5}
+        - {x: 21, y: 100.5}
+        - {x: 14, y: 101.5}
+        - {x: 5, y: 104.5}
+        - {x: -18, y: 104.5}
+        - {x: -31, y: 102.5}
+        - {x: -45, y: 99.5}
+        - {x: -59, y: 94.5}
+        - {x: -68, y: 90.5}
+        - {x: -88, y: 79.5}
+        - {x: -99, y: 71.5}
+        - {x: -114, y: 55.5}
+        - {x: -120, y: 47.5}
+        - {x: -124, y: 38.5}
+        - {x: -129, y: 24.5}
+        - {x: -130, y: 11.5}
+        - {x: -131, y: 1.5}
+        - {x: -131, y: -17.5}
+        - {x: -130, y: -29.5}
+        - {x: -129, y: -34.5}
+        - {x: -127, y: -42.5}
+        - {x: -123, y: -56.5}
+        - {x: -118, y: -68.5}
+        - {x: -111, y: -80.5}
+        - {x: -100, y: -93.5}
+        - {x: -88, y: -102.5}
+        - {x: -82, y: -106.5}
+        - {x: -70, y: -112.5}
+        - {x: -65, y: -113.5}
+        - {x: -61, y: -110.5}
+        - {x: -61, y: -105.5}
+        - {x: -64, y: -99.5}
+        - {x: -70, y: -93.5}
+        - {x: -78, y: -81.5}
+        - {x: -87, y: -62.5}
+        - {x: -91, y: -47.5}
+        - {x: -92, y: -38.5}
+        - {x: -92, y: -25.5}
+        - {x: -91, y: -19.5}
+        - {x: -86, y: -25.5}
+        - {x: -68, y: -44.5}
+        - {x: -64, y: -45.5}
+        - {x: -61, y: -42.5}
+        - {x: -61, y: -37.5}
+        - {x: -64, y: -17.5}
+        - {x: -65, y: -3.5}
+        - {x: -64, y: -2.5}
+        - {x: -60, y: 16.5}
+        - {x: -48, y: 36.5}
+        - {x: -45, y: 26.5}
+        - {x: -44, y: 13.5}
+        - {x: -41, y: 9.5}
+        - {x: -37, y: 9.5}
+        - {x: -30, y: 14.5}
+        - {x: -18, y: 23.5}
+        - {x: -5, y: 35.5}
+        - {x: -6, y: 31.5}
+        - {x: -7, y: 24.5}
+        - {x: -20, y: 0.5}
+        - {x: -32, y: -11.5}
+        - {x: -32, y: -12.5}
+        - {x: -30, y: -16.5}
+        - {x: -21, y: -15.5}
+        - {x: -14, y: -10.5}
+        - {x: -6, y: -6.5}
+        - {x: 4, y: -0.5}
+        - {x: 22, y: 10.5}
+        - {x: 40, y: 28.5}
+        - {x: 45, y: 35.5}
+        - {x: 59, y: 21.5}
+        - {x: 65, y: 12.5}
+        - {x: 74, y: -7.5}
+        - {x: 76, y: -20.5}
+        - {x: 77, y: -25.5}
+        - {x: 78, y: -26.5}
+        - {x: 78, y: -55.5}
+        - {x: 77, y: -56.5}
+        - {x: 71, y: -83.5}
+        - {x: 62, y: -100.5}
+        - {x: 57, y: -107.5}
+        - {x: 57, y: -111.5}
+        - {x: 60, y: -114.5}
+        - {x: 65, y: -113.5}
+        - {x: 74, y: -109.5}
+        - {x: 84, y: -99.5}
+        - {x: 91, y: -89.5}
+      physicsShape: []
+      tessellationDetail: 0.37
+      bones: []
+      spriteID: 1ed47018282bbdd4aa17759b83d5cd6a
+      internalID: -853299449586930918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 453
+        width: 209
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5f79016e49d24b8d59d2eb80c60a0
+      internalID: 3920698653494930242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_10
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 453
+        width: 198
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328a1842e78390440ba9da0251e8e1d4
+      internalID: -8840467898546309861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 453
+        width: 188
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f479e7a85b79449401be27602e86e
+      internalID: -5197617883074779432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 453
+        width: 188
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c87bfbefb5dfd4681f71482e8c4415
+      internalID: 609909039143518307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
